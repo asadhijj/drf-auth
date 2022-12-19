@@ -2,11 +2,11 @@
 
 ## Author: ASAD HIJAWI
 
-##Links and Resources
+## Links and Resources
 
 [Pull Request](https://github.com/asadhijj/drf-auth/pull/1)
 
-##Setup
+## Setup
 
     Clone the Repo
     Run the server
